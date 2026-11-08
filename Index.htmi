@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Luxpower Tec - Solar Inverter & Battery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
+.header{background:#ff9900;color:white;padding:40px 20px}
+.header h1{margin:0;font-size:32px}
+.header p{font-size:18px}
+.box{background:white;margin:20px;padding:20px;border-radius:10px}
+.btn{display:inline-block;background:#25D366;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold}
+h2{color:#333}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>LUXPOWER TEC</h1>
+<p>Solar Inverter | Lithium Battery | Solar Solutions</p>
+</div>
+<div class="box">
+<h2>Welcome to Luxpower Tec</h2>
+<p>Best Quality Solar Inverters & Batteries in Pakistan</p>
+<p>Hybrid Inverter | Off-Grid | On-Grid | Lithium Battery</p>
+<br>
+<a class="btn" href="https://wa.me/923000000000">WhatsApp Par Rabta Karein</a>
+</div>
+<div class="box">
+<h2>Our Products</h2>
+<p>✅ Luxpower Hybrid Inverter 6KW</p>
+<p>✅ Luxpower Hybrid Inverter 10KW</p>
+<p>✅ Lithium Battery 5KWh / 10KWh</p>
+<p>✅ Complete Solar System Installation</p>
+</div>
+<div class="box">
+<p>Call / WhatsApp: 0300-0000000</p>
+<p>Lahore, Pakistan</p>
+</div>
+</body>
+</html>
