@@ -5,6 +5,40 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
+.header{background:#ff9900;color:white;padding:30px 15px}
+.header h1{margin:0;font-size:34px}
+.header p{font-size:18px}
+.box{background:white;margin:20px;padding:20px;border-radius:12px}
+.price{color:#ff6600;font-size:24px;font-weight:bold}
+.btn{display:inline-block;background:#25D366;color:white;padding:14px 25px;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold;margin-top:10px}
+.btn2{display:inline-block;background:#ff9900;color:white;padding:12px 22px;text-decoration:none;border-radius:8px;font-size:17px;margin-top:10px}
+.pay{background:#fff3d6;border:2px dashed #ff9900}
+h2{color:#333}
+.num{font-size:22px;font-weight:bold;color:#000}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>LUXPOWER TEC</h1>
+<p>Solar Inverter & Battery Specialist - Lahore, Pakistan</p>
+</div>
+
+<div class="box">
+<h2>🔋 Luxpower Hybrid Inverter</h2>
+<p>3KW / 5KW / 6KW / 10KW - Original with Warranty</p>
+<p class="price">Price: Rs. 185,000 se shuru</p>
+<p>✅ Net Metering Support<br>✅ Lithium Battery Support<br>✅ 5 Saal Warranty<br>✅ Free Installation Guidance</p>
+<a class="btn" href="https://wa.me/923001234567">WhatsApp Par Order Karen</a>
+</div>
+
+<div class="box pay">
+<h2>💰 Deposit html>
+<html>
+<head>
+<title>Luxpower Tec - Solar Inverter & Battery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
 .header{background:#ff9900;color:white;padding:40px 20px}
 .header h1{margin:0;font-size:32px}
 .header p{font-size:18px}
