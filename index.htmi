@@ -1,140 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Luxpower Tec - Solar Inverter & Battery</title>
+<title>Luxpower Tec - Solar Inverter</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
-.header{background:#ff9900;color:white;padding:30px 15px}
+body{font-family:Arial;text-align:center;background:#f4f4f4;margin:0}
+.header{background:#ff9900;color:white;padding:25px}
 .header h1{margin:0;font-size:34px}
-.header p{font-size:18px}
-.box{background:white;margin:20px;padding:20px;border-radius:12px}
-.price{color:#ff6600;font-size:24px;font-weight:bold}
-.btn{display:inline-block;background:#25D366;color:white;padding:14px 25px;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold;margin-top:10px}
-.btn2{display:inline-block;background:#ff9900;color:white;padding:12px 22px;text-decoration:none;border-radius:8px;font-size:17px;margin-top:10px}
-.pay{background:#fff3d6;border:2px dashed #ff9900}
-h2{color:#333}
-.num{font-size:23px;font-weight:bold;color:#000}
-</style>
-</head>
-<body>
-<div class="header">
-<h1>LUXPOWER TEC</h1>
-<p>Solar Inverter & Battery Specialist - Lahore, Pakistan</p>
-</div>
-
-<div class="box">
-<h2>🔋 Luxpower Hybrid Inverter</h2>
-<p>3KW / 5KW / 6KW / 10KW - Original with Warranty</p>
-<p class="price">Price: Rs. 185,000 se shuru</p>
-<p>✅ Net Metering Support<br>✅ Lithium Battery Support<br>✅ 5 Saal Warranty<br>✅ Free Installation Guidance</p>
-<a class="btn" href="https://wa.me/923094454955">WhatsApp Par Order Karen</a>
-</div>
-
-<div class="box pay">
-<h2>💰 Deposit / Withdraw</h2>
-<p>Payment JazzCash aur Easypaisa se karen - Fast & Secure</p>
-
-<h3>📱 JazzCash</h3>
-<p class="num">0309-4454955</p>
-<p>Naam: Muhammad Tariq</p>
-<a class="btn2" href="https://wa.me/923094454955">JazzCash Deposit Karen</a>
-<br><br>
-
-<h3>📱 Easypaisa</h3>
-<p class="num">0348-4974434</p>
-<p>Naam: Muhammad Kashif</p>
-<a class="btn2" href="https://wa.me/923484974434">Easypaisa Deposit Karen</a>
-<br><br>
-
-<p><b>Withdraw ke liye:</b><br>WhatsApp par apna JazzCash / Easypaisa number bhejen,<br>payment 10-30 minute me mil jayegi.</p>
-<a class="btn" href="https://wa.me/923094454955">Withdraw Ke Liye Message Karen</a>
-</div>
-
-<div class="box">
-<h2>⚡ Solar System Packages</h2>
-<p><b>3KW System:</b> Rs. 450,000<br>
-<b>5KW System:</b> Rs. 680,000<br>
-<b>10KW System:</b> Rs. 1,250,000</p>
-<a class="btn2" href="https://wa.me/923094454955">Price Maloom Karen</a>
-</div>
-
-<div class="box">
-<h2>📞 Rabta Karen</h2>
-<p><b>JazzCash / WhatsApp:</b> 0309-4454955 (Muhammad Tariq)<br>
-<b>Easypaisa / WhatsApp:</b> 0348-4974434 (Muhammad Kashif)<br>
-<b>Shop:</b> Lahore, Pakistan<br>
-<b>Timing:</b> Subah !DOCTYPE html>
-<html>
-<head>
-<title>Luxpower Tec - Solar Inverter & Battery</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
-.header{background:#ff9900;color:white;padding:30px 15px}
-.header h1{margin:0;font-size:34px}
-.header p{font-size:18px}
-.box{background:white;margin:20px;padding:20px;border-radius:12px}
-.price{color:#ff6600;font-size:24px;font-weight:bold}
-.btn{display:inline-block;background:#25D366;color:white;padding:14px 25px;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold;margin-top:10px}
-.btn2{display:inline-block;background:#ff9900;color:white;padding:12px 22px;text-decoration:none;border-radius:8px;font-size:17px;margin-top:10px}
-.pay{background:#fff3d6;border:2px dashed #ff9900}
-h2{color:#333}
-.num{font-size:22px;font-weight:bold;color:#000}
-</style>
-</head>
-<body>
-<div class="header">
-<h1>LUXPOWER TEC</h1>
-<p>Solar Inverter & Battery Specialist - Lahore, Pakistan</p>
-</div>
-
-<div class="box">
-<h2>🔋 Luxpower Hybrid Inverter</h2>
-<p>3KW / 5KW / 6KW / 10KW - Original with Warranty</p>
-<p class="price">Price: Rs. 185,000 se shuru</p>
-<p>✅ Net Metering Support<br>✅ Lithium Battery Support<br>✅ 5 Saal Warranty<br>✅ Free Installation Guidance</p>
-<a class="btn" href="https://wa.me/923001234567">WhatsApp Par Order Karen</a>
-</div>
-
-<div class="box pay">
-<h2>💰 Deposit html>
-<html>
-<head>
-<title>Luxpower Tec - Solar Inverter & Battery</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body{font-family:Arial;text-align:center;margin:0;background:#f4f4f4}
-.header{background:#ff9900;color:white;padding:40px 20px}
-.header h1{margin:0;font-size:32px}
-.header p{font-size:18px}
 .box{background:white;margin:20px;padding:20px;border-radius:10px}
-.btn{display:inline-block;background:#25D366;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold}
+.price{color:#ff6600;font-size:24px;font-weight:bold}
+.btn{display:inline-block;background:#25D366;color:white;padding:12px 25px;text-decoration:none;border-radius:8px;font-weight:bold;margin:5px}
+.btn2{display:inline-block;background:#ff9900;color:white;padding:12px 25px;text-decoration:none;border-radius:8px;font-weight:bold;margin:5px}
+.pay{background:#fff3d6;border:2px dashed #ff9900;padding:15px;border-radius:10px}
 h2{color:#333}
 </style>
 </head>
 <body>
 <div class="header">
 <h1>LUXPOWER TEC</h1>
-<p>Solar Inverter | Lithium Battery | Solar Solutions</p>
+<p>Solar Inverter & Battery Specialist</p>
 </div>
 <div class="box">
-<h2>Welcome to Luxpower Tec</h2>
-<p>Best Quality Solar Inverters & Batteries in Pakistan</p>
-<p>Hybrid Inverter | Off-Grid | On-Grid | Lithium Battery</p>
-<br>
-<a class="btn" href="https://wa.me/923000000000">WhatsApp Par Rabta Karein</a>
+<h2>Luxpower Hybrid Inverter</h2>
+<p>3kW / 5kW / 6kW / 10kW - Original</p>
+<p class="price">Best Price in Pakistan</p>
+<a class="btn" href="https://wa.me/923094497979">WhatsApp Par Price Poochein</a>
 </div>
 <div class="box">
-<h2>Our Products</h2>
-<p>✅ Luxpower Hybrid Inverter 6KW</p>
-<p>✅ Luxpower Hybrid Inverter 10KW</p>
-<p>✅ Lithium Battery 5KWh / 10KWh</p>
-<p>✅ Complete Solar System Installation</p>
+<h2>Lithium Battery</h2>
+<p>5kWh / 10kWh - Long Backup</p>
+<a class="btn2" href="https://wa.me/923484979797">Battery Price Poochein</a>
 </div>
-<div class="box">
-<p>Call / WhatsApp: 0300-0000000</p>
-<p>Lahore, Pakistan</p>
+<div class="box pay">
+<h2>Rabta Karen</h2>
+<p><b>JazzCash / WhatsApp:</b> 0309-4497979</p>
+<p><b>Easypaisa / WhatsApp:</b> 0348-4979797</p>
+<p><b>Shop:</b> Lahore, Pakistan</p>
+<p><b>Timing:</b> Subah 10 - Raat 9</p>
 </div>
 </body>
 </html>
